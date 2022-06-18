@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file alias="python_logo.png">../img/python_logo.png</file>
+        <file alias="icon.png">../img/icon.png</file>
+    </qresource>
+</RCC>

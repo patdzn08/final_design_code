@@ -1,0 +1,4 @@
+pyqt5
+sqlalchemy
+opencv-python
+cx_freeze
